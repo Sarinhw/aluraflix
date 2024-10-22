@@ -5,7 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
+<body style="background-color: blueviolet ;"> <!--Cor de fundo básica-->
+    <!--Texto de apresentação-->
+    <h1> Bem vindo </h1>
+    <p> Clique em um víeo para começar</p>
+
+
+    <!--Tabela de filmes-->
+    <table border="1" cellspacing="0" cellpadding="10"
     
+ <tr>
+
+    </tr>
+
 </body>
 </html>
